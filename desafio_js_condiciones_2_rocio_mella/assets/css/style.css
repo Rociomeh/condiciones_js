@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 20%;
+}
+
+.container p {
+    display: flex;
+    justify-content: center;
+}
+
+.sticker {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Alinea horizontalmente los elementos */
+    flex-direction: column;
+    margin: 15px;
+}
+   
+.calcular {
+    cursor: pointer;
+    margin-left: 48%;
+}
